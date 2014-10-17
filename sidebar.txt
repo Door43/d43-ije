@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ije:home|Door43 (ije)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ije|d43-ije repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ije/archive/master.zip|d43-ije.zip]]
+
+**Recent Changes**
+{{changes>ns = ije}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ije|Ethnologue data]]
+
